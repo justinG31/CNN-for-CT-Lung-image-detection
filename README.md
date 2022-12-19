@@ -24,13 +24,13 @@ Clone the repository using 'git clone https://github.com/justinG31/CNN-for-CT-Lu
 
 ### 2: Transfer the jupyter notebook to google drive 
 
-Either clone the repository directy to google drive or just move the file over to utilize a gpu on the model. 
+Either clone the repository directly to google drive or just move the file over to utilize a gpu on the model. Opening the notebook in google colab, change the runtime to gpu.
 
 ### 3: Confirm directory file paths
 
-When mounting to google drive, confirm the file paths for the directory will work and all the images are downloaded
+When mounting to google drive, confirm the file paths for the directory will work and all the images are downloaded.
 
 ### 4: Run the notebook
 
-(Command/CTRL + F9) or Run all 
+(Command/CTRL + F9). May be worthwile to run segment by segment if file paths need to be changed and to also visuaize the data and run each model individually. 
 
